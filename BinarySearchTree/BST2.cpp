@@ -1,5 +1,5 @@
 //Iterative approach.
-//generate bst from preorder traversal only : {15 ,15 ,25 ,20 ,45 ,50 ,40 ,30}.
+//generate bst from preorder traversal only : {15 ,10 ,25 ,20 ,45 ,50 ,40 ,30}.
 //solve it using stack.
 //you have 3 casses to solve this problem.
 #include <iostream>
