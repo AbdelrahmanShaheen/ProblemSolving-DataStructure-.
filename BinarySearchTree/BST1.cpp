@@ -1,3 +1,7 @@
+//Iterative approach.
+//generate bst from preorder traversal only : {30 ,20 ,10 ,15 ,25 ,40 ,50 ,45}.
+//solve it using stack.
+//you have 3 casses to solve this problem.
 #include <iostream>
 #include <stack>
 using namespace std;
