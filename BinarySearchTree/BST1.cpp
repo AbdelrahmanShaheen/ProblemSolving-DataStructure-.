@@ -70,3 +70,4 @@ int main() {
     int arr[8] = {30 ,20 ,10 ,15 ,25 ,40 ,50 ,45}; //preorder of bst.
     InOrder(CreateBst(arr ,8));
 }
+//Time complexity : O(n).
